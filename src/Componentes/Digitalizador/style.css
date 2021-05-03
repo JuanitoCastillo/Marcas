@@ -1,0 +1,21 @@
+.fila{
+
+  display: grid;
+  grid-template-columns: repeat(3,33%);
+  height: 100%;
+}
+
+.digitalizador{
+  height: 60%;
+}
+
+
+.boton{
+  width: 90%;
+  height: 90%;
+  font-family: monospace;
+  font-size: x-large;
+  background-color: #FEF9EF;
+  border: none;
+}
+

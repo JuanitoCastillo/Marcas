@@ -1,0 +1,21 @@
+.divFecha {
+  display: grid;
+  align-items: center;
+  text-align: center;
+}
+
+.saludo{
+color: #ffff;
+font-size: 400%;
+}
+
+.fecha{
+color: #ffff;
+font-size: 150%;
+}
+
+.hora{
+color: #ffff;
+font-size: 500%;
+}
+
